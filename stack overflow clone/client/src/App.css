@@ -1,0 +1,20 @@
+
+
+
+/* home-container-1  */
+.home-container-1{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1250px;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0% auto;
+}
+
+.home-container-2{
+  max-width: 1100px;
+  width: calc(100% - 164px);
+  padding: 24px;
+  /* border: 1px solid wheat; */
+  box-sizing: border-box;
+}
